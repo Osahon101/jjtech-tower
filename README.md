@@ -1,2 +1,1 @@
-# jjtech-tower
-jjtech-tower
+# JJTechTower
